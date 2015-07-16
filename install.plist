@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://172.16.21.245/html5/Quanmincai_2.6.1_50011.ipa</string>
+<string>https://github.com/DMJgit/qmcaiPlist/blob/master/Quanmincai_2.6.1_50011.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://172.16.21.245/html5/Icon.png</string>
+<string>https://github.com/DMJgit/qmcaiPlist/blob/master/Icon.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,7 +25,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://172.16.21.245/html5/Icon.png</string>
+<string>https://github.com/DMJgit/qmcaiPlist/blob/master/Icon.png</string>
 </dict>
 </array>
 <key>metadata</key>
