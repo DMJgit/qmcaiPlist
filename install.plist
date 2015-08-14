@@ -17,7 +17,7 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.quanmincai.qmcai</string>
+                                <string>com.quanmincai.qmcai.ios8-37278104</string>
                                 <key>bundle-version</key>
                                 <string>2.7.0</string>
                                 <key>kind</key>
@@ -29,3 +29,4 @@
         </array>
 </dict>
 </plist>
+
